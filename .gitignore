@@ -1,0 +1,21 @@
+﻿# Node
+**/node_modules
+**/.npm
+**/.yarn
+**/dist
+**/.vite
+
+# Python
+**/.venv
+**/.venv-*
+**/__pycache__
+**/*.pyc
+
+# Azure Functions local
+**/local.settings.json
+**/.azurite
+**/.python_packages
+
+# OS
+.DS_Store
+Thumbs.db

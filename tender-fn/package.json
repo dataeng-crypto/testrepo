@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@azure/identity": "^4.13.0",
+    "mssql": "^12.2.0"
+  }
+}
